@@ -4,9 +4,7 @@ This assignment implements numerical methods (Euler and Runge-Kutta) to solve di
 
 ## Running the Tests
 
-After cloning the repository,
-
-Execute the tests with:
+After cloning the repository, execute the tests with:
 ```bash
 python src/test/test_assignment_3.py
 ```
