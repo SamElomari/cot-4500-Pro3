@@ -1,1 +1,12 @@
-# cot-4500-Pro3
+# Assignment 3a
+This assignment implements numerical methods (Euler and Runge-Kutta) to solve differential equations, based on Chapter 5.
+
+
+## Running the Tests
+Execute the tests with:
+```bash
+python src/test/test_assignment_3.py
+```
+
+## Restrictions
+- Do **not** use the SciPy library.
