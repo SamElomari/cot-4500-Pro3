@@ -4,7 +4,7 @@ This assignment implements numerical methods (Euler and Runge-Kutta) to solve di
 
 ## Running the Tests
 
-First, clone the repository.
+After cloning the repository,
 
 Execute the tests with:
 ```bash
