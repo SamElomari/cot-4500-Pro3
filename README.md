@@ -22,4 +22,6 @@ python src/test/test_assignment_3.py
 ## Restrictions
 - SciPy not allowed.
 
+## Expected Output
+
 ![image](https://github.com/user-attachments/assets/c0745001-516a-4771-b779-8fad7dbaafdd)
