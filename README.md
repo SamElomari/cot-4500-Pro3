@@ -1,6 +1,9 @@
 # Assignment 3a
 This assignment implements numerical methods (Euler and Runge-Kutta) to solve differential equations, based on Chapter 5.
 
+## Requirements
+
+NumPy is the only external library used, so no requirements.txt
 
 ## Running the Tests
 
