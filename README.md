@@ -9,4 +9,4 @@ python src/test/test_assignment_3.py
 ```
 
 ## Restrictions
-- Do **not** use the SciPy library.
+- SciPy not allowed.
