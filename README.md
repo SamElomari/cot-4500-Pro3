@@ -5,6 +5,13 @@ This assignment implements numerical methods (Euler and Runge-Kutta) to solve di
 
 NumPy is the only external library used, so no requirements.txt
 
+## Cloning the Repository
+Clone this repository using:
+```bash
+git clone <https://github.com/SamElomari/cot-4500-Pro3>
+cd cot-4500-as
+```
+
 ## Running the Tests
 
 After cloning the repository, execute the tests with:
